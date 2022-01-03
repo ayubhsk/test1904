@@ -6,6 +6,7 @@ import java.lang.reflect.Method;
 public class User {
     public  int userId=1;
     String userName;
+    String test;
 
     public User(int userId) {
         this.userId = userId;
