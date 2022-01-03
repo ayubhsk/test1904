@@ -35,8 +35,8 @@ public class User {
         System.out.println(getFieldValueByName("userName",u));
         set("userId", 2,u);
         set("userName", "asd",u);
-        System.out.println(u+"-------------------");//User{userId='001', userName='xiaoming'}
-        System.out.println(u+"-------------------");
+        System.out.println(u+"------------------");//User{userId='001', userName='xiaoming'}
+        System.out.println(u+"------------------");
 
     }
 
