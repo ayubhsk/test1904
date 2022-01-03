@@ -41,7 +41,7 @@ public class TreeMap排序{
         map.put("a", "1");
         map.put("bb", "1");
         map.put("b", "1");
-        map.put("a111", "1");
+        map.put("a1", "1");
     }
 
     public static void print(Map<String, String> map) {
